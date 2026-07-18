@@ -1,6 +1,6 @@
 # 📊 Shoppings U.S.A. — Análisis de Ventas Retail 2023
 
-Análisis end-to-end de ventas de una cadena de tiendas de ropa en Estados Unidos, desarrollado en **Excel** a partir de un dataset real de [Kaggle](https://www.kaggle.com). El proyecto abarca desde la limpieza y transformación de datos crudos hasta un dashboard interactivo con segmentadores.
+Análisis end-to-end de ventas de una cadena de tiendas de ropa en Estados Unidos, desarrollado en **Excel** a partir de un dataset de [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset). El proyecto abarca desde la limpieza y transformación de datos crudos hasta un dashboard interactivo con segmentadores.
 
 ![Dashboard interactivo](screenshots/dashboard-final.jpeg)
 
